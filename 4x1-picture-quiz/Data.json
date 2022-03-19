@@ -1,0 +1,18 @@
+﻿[
+	{
+
+
+  },
+  { 
+    "id" : "1",
+    "qIMG": "1.png", 
+    "answer": "Chest"
+  },
+  { 
+    "id" : "2",
+    "qIMG": "2.png", 
+    "answer": "Italy"
+  }
+
+]
+  
