@@ -12,6 +12,76 @@
     "id" : "2",
     "qIMG": "2.png", 
     "answer": "Italy"
+  },
+  { 
+    "id" : "3",
+    "qIMG": "3.png", 
+    "answer": "House"
+  },
+  { 
+    "id" : "4",
+    "qIMG": "4.png", 
+    "answer": "Mouse"
+  },
+  { 
+    "id" : "5",
+    "qIMG": "5.png", 
+    "answer": "Children"
+  },
+  { 
+    "id" : "6",
+    "qIMG": "6.png", 
+    "answer": "Wide"
+  },
+  { 
+    "id" : "7",
+    "qIMG": "7.png", 
+    "answer": "Crane"
+  },
+  { 
+    "id" : "8",
+    "qIMG": "8.png", 
+    "answer": "Pound"
+  },
+  { 
+    "id" : "9",
+    "qIMG": "9.png", 
+    "answer": "Alarm"
+  },
+  { 
+    "id" : "10",
+    "qIMG": "10.png", 
+    "answer": "Star"
+  },
+  { 
+    "id" : "11",
+    "qIMG": "11.png", 
+    "answer": "Card"
+  },
+  { 
+    "id" : "12",
+    "qIMG": "12.png", 
+    "answer": "Long"
+  },
+  { 
+    "id" : "13",
+    "qIMG": "13.png", 
+    "answer": "Roll"
+  },
+  { 
+    "id" : "14",
+    "qIMG": "14.png", 
+    "answer": "Dry"
+  },
+  { 
+    "id" : "15",
+    "qIMG": "15.png", 
+    "answer": "Pole"
+  },
+  { 
+    "id" : "16",
+    "qIMG": "16.png", 
+    "answer": "Grill"
   }
 
 ]
