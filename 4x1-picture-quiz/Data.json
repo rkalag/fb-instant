@@ -82,6 +82,41 @@
     "id" : "16",
     "qIMG": "16.png", 
     "answer": "Grill"
+  },
+  { 
+    "id" : "17",
+    "qIMG": "17.png", 
+    "answer": "Heavy"
+  },
+  { 
+    "id" : "18",
+    "qIMG": "18.png", 
+    "answer": "Chaos"
+  },
+  { 
+    "id" : "19",
+    "qIMG": "19.png", 
+    "answer": "Morning"
+  },
+  { 
+    "id" : "20",
+    "qIMG": "20.png", 
+    "answer": "Note"
+  },
+  { 
+    "id" : "21",
+    "qIMG": "21.png", 
+    "answer": "Down"
+  },
+  { 
+    "id" : "22",
+    "qIMG": "22.png", 
+    "answer": "Present"
+  },
+  { 
+    "id" : "23",
+    "qIMG": "23.png", 
+    "answer": "Uniform"
   }
 
 ]
